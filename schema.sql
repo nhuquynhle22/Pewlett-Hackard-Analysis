@@ -60,4 +60,18 @@ CREATE TABLE titles (
 	PRIMARY KEY (emp_no, title, from_date)
 );
 
+-- Drop all tables
+DROP TABLE departments CASCADE;
+DROP TABLE dept_emp CASCADE;
+DROP TABLE dept_manager CASCADE;
+DROP TABLE employees CASCADE;
+DROP TABLE salaries CASCADE;
+DROP TABLE titles;
+
+-- Testing Tables created correctly.
 SELECT * FROM departments;
+SELECT * FROM dept_emp;
+SELECT * FROM dept_manager;
+SELECT * FROM employees;
+SELECT * FROM salaries;
+SELECT * FROM titles;
