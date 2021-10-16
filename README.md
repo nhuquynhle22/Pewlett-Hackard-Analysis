@@ -11,7 +11,7 @@ To determine the requirement criteria, we combined several datasets and then fil
 - The most urgent item Pewlett-Hackard needs to address is the possibility of almost 45,000 engineers retiring. Right now, they have 29,414 employees with the title of Senior Engineer who meet the criteria for a near-future retirement. There are also 14,222 employees with the title of Engineer who also meet the criteria. A plan needs to be put into place to attract middle and senior level engineers to fill these roles. Promoting internally is an option, but that will be tough given the number of middle level engineers potentially retiring. 
 
 - Middle management will be unaffected by possible retirement. There are only two employees with the title of manager who meet the criteria for potential retirement. Pewlett-Hackard can look to existing managers to potentially fill Senior Leadership positions that might open. There are 28,254 employees with the title of Senior Staff who meet the retirement criteria. 
-![retirement_titles](https://user-images.githubusercontent.com/89143725/137567150-b25af2e1-a759-4149-a288-e385564da26b.png)
+								![retirement_titles](https://user-images.githubusercontent.com/89143725/137567150-b25af2e1-a759-4149-a288-e385564da26b.png)
 
 ## Mentorship Possibilities
 
