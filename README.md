@@ -8,11 +8,10 @@ The purpose was to determine the number of retiring employees per title, and ide
 To determine the requirement criteria, we combined several datasets and then filtered them to only show employees born between 1952-1955. From there, the combined dataset was organized by job title, and the potential retirees in each title were totaled. A second table was constructed from the original six datasets to identify employees born in the year 1965 who are still with Pewlett-Hackard. These employees are potential candidates for a mentorship program, where a retiring employee trains them to fill the position they are leaving.
 
 ## Retirement by title
-![retirement_titles](https://user-images.githubusercontent.com/89143725/137567150-b25af2e1-a759-4149-a288-e385564da26b.png)
-
 - The most urgent item Pewlett-Hackard needs to address is the possibility of almost 45,000 engineers retiring. Right now, they have 29,414 employees with the title of Senior Engineer who meet the criteria for a near-future retirement. There are also 14,222 employees with the title of Engineer who also meet the criteria. A plan needs to be put into place to attract middle and senior level engineers to fill these roles. Promoting internally is an option, but that will be tough given the number of middle level engineers potentially retiring. 
 
 - Middle management will be unaffected by possible retirement. There are only two employees with the title of manager who meet the criteria for potential retirement. Pewlett-Hackard can look to existing managers to potentially fill Senior Leadership positions that might open. There are 28,254 employees with the title of Senior Staff who meet the retirement criteria. 
+![retirement_titles](https://user-images.githubusercontent.com/89143725/137567150-b25af2e1-a759-4149-a288-e385564da26b.png)
 
 ## Mentorship Possibilities
 
